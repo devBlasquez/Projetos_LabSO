@@ -1,0 +1,5 @@
+arquivos.txt
+arquivo.txt
+projeto_2
+projeto_2.c
+projeto_2.out

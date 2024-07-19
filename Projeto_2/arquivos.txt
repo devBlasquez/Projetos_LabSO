@@ -1,0 +1,8 @@
+arquivos.txt
+arquivo.txt
+-calculator
+file.txt
+projeto_2
+projeto_2.c
+projeto_2.out
+-r
